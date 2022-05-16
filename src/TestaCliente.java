@@ -13,8 +13,7 @@ public class TestaCliente {
 		credito.tipo = TipoCartao.CREDITO;
 		credito.status = StatusClienteEnum.ATIVO;
 		
-		
-		System.out.println(credito.status);
+		System.out.println(c1.nome + "\n " + credito.status);
 		
 	}
 }

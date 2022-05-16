@@ -1,4 +1,5 @@
 public class Agencia {
-
-	public int numAge; 
+	
+	public String numAgencia;
+	
 }
