@@ -2,7 +2,8 @@ public class Cartao {
 	
 	public String numeracao;
 	public String dataDeValidade;
-	public String tipo;
+	public TipoCartao tipo;
 	public StatusClienteEnum status;
+	public Cliente nome;
 	
 }
